@@ -1,0 +1,10 @@
+{
+    "userBundle": {
+      "class": "User",
+      "file": "user.php"
+    },
+    "exampleBundle": {
+      "class": "Example",
+      "file": "example.php"
+    }
+ }
