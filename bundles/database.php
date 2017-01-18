@@ -1,6 +1,6 @@
 <?php
 $dbUser = "root";
-$dbPass = "Igitsup01$";
+$dbPass = "";
 $dbHost = "localhost";
 $dbName = "framework";
 try {
