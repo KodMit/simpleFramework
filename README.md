@@ -86,7 +86,7 @@ class Example
  
  La méthode ``getClass(NomDeVotreClasse)`` permet comme vous pouvez le constater d'appeller la classe de votre bundle pour ainsi y effectuer des actions.
  
- ## Passer en prod
+ ##Passer en prod
  
  Pour passer votre fichier en prod ouvrez le fichier ``config.php`` et changez la variable ``$devMode`` à ``false``.
  
