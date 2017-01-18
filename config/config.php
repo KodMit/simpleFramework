@@ -12,12 +12,12 @@ if ($devMode) {
 }
 
 if($useDatabase){
-	require('../bundles/database.php');
+	require('././bundles/database.php');
 }
 
 
 // Don't edit the values bellow !
 
 if($userSystem){
-	include('../bundles/user.php');
+	include('././bundles/user.php');
 }
