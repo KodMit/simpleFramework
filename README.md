@@ -65,7 +65,7 @@ class Example
  
  ```
  
- ## Utiliser un bundle
+## Utiliser un bundle
  
  Il existe plusieurs façons d'utiliser votre bundle, une fois déclaré dans le fichier Json il est automatiquement déclaré sur toute les pages du template et donc utilisable sans rajouter la moindre ligne de code.
  
@@ -86,7 +86,7 @@ class Example
  
  La méthode ``getClass(NomDeVotreClasse)`` permet comme vous pouvez le constater d'appeller la classe de votre bundle pour ainsi y effectuer des actions.
  
- ## Passer en prod
+## Passer en prod
  
  Pour passer votre fichier en prod ouvrez le fichier ``config.php`` et changez la variable ``$devMode`` à ``false``.
  
