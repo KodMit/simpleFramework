@@ -1,0 +1,10 @@
+{
+  "index": {
+      "link": "",
+      "file": "home.php"
+    },
+    "login": {
+      "link": "login",
+      "file": "login.php"
+    }
+ }
