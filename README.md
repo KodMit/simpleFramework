@@ -96,7 +96,7 @@ class Example
 ## UserBundle
 
 ``` php
-Obtenir un l'email de l'utilisateur kodmit : <?= $bundle->getClass('userBundle')->get('email', 'Kodmit'); ?>
+Obtenir un l email de l'utilisateur kodmit : <?= $bundle->getClass('userBundle')->get('email', 'Kodmit'); ?>
 
 Ajouter un utilisateur : <?= $bundle->getClass('userBundle')->addUser('kodmit', 'password', 'email'); ?>
 
