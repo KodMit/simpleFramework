@@ -1,1 +1,1 @@
-L'email de l'utilisateur kodmit est <?= $bundle->getClass('User')->get("kodmit", "email"); ?>.
+L'email de l'utilisateur kodmit est <?= $bundle->getClass('userBundle')->get('email', 'Kodmit'); ?>
